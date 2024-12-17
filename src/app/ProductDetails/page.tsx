@@ -21,7 +21,7 @@ const Product  =  () =>  {
         </div>
 
         {/* Details Section */}
-        <div className="w-full md:w-1/2 mt-6 h-[413px] w-[374px] md:mt-0 md:pl-10">
+        <div className=" md:w-1/2 mt-6 h-[413px] w-[374px] md:mt-0 md:pl-10">
           <h1 className="text-3xl  font-bold mb-4">Nike Air Force 1 PLT.AF.ORM</h1>
           <p className="text-gray-700 mb-6">
             Turn style on its head with this crafted take on the Air Jordan 1
